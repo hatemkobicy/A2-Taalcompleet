@@ -59,7 +59,7 @@ Built with zero dependencies (pure HTML5, Vanilla JavaScript, Tailwind CSS CDN, 
 ### Run Locally
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   git clone https://hatemkobicy.github.io/A2-Taalcompleet/
    ```
 2. Open `index.html` directly in any modern web browser (Chrome, Edge, Safari, or Firefox). No build tools or server required!
 
@@ -69,7 +69,7 @@ Built with zero dependencies (pure HTML5, Vanilla JavaScript, Tailwind CSS CDN, 
 3. Under **Build and deployment** → **Branch**, select `main` and `/ (root)`, then click **Save**.
 4. Your live site will be available in ~1 minute at:
    ```text
-   https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+   https://hatemkobicy.github.io/A2-Taalcompleet/
    ```
 
 ---
